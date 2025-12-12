@@ -1,0 +1,15 @@
+# Jia's Reflection on the Summit
+
+At first I was hesitant to use AI. Earlier this year, I preferred learning from product documentation rather than relying on AI-generated responses. For example, when using Spring Kafka, I would go to Spring's official documentation, match the exact version we were using, and read the relevant sections. I used AI for quick syntax pointers and examples, but I didn’t rely on it fully.
+
+While attending the AI Summit, I realized how rapidly the field has evolved since my 2022 understanding of neural networks and machine learning—during my Computer Science master’s and the ChatGPT‑3/4 era. I was using older versions of TensorFlow and Keras (open-source libraries from Google) and other obsolete frameworks to build a neural model, training on my six‑year‑old Lenovo T460p. Training took days on a tiny dataset, and the results were only suitable for narrowly scoped use cases.
+
+Fast-forward to 2025: people are talking about AI factories and multi-agent systems, a concept beyond a single trained model. It’s a full platform to build, deploy, monitor, and govern multiple AI agents working together to achieve goals.
+
+At the same time, safety and security remain concerns. Because AI needs context, we grant agents read access to many data sources and, in some cases, write access as well. Several sessions noted that modern AI systems are too complex for a single person to oversee end-to-end, so we need guardrails to prevent systems from going off course. Others emphasized using defensive AI to counter offensive AI. All major AI vendors have disclaimers about using not the customer's data to train their models. but in the end of the day, they are still personal data that are sent to third-party systems. We trust big names to honor their policies, but we should still be cautious.
+
+On a side note, I’m traditionally a text‑editor note-taker. I use a plain text editor and type out notes. This time, I tried using AI in VS Code to take notes. I started with Google Gemini during a Google session, but after setting it up and trying it a couple of times the extension crashed (likely due to a poor network connection). I then switched to GitHub Copilot, since I have access to higher‑tier models. The note‑taking experience was overwhelmingly positive.
+
+When attending talks, they’re fast‑paced, and acronyms pop up constantly. In the past, I would look terms up in a browser. With AI in the editor, I can ask for a high‑level description during brief pauses. Using this approach, I only need to drop a placeholder and keep following the speaker.
+
+Overall, it’s never too late to learn and adapt to new technology. We should still be cautious about security and understand the risks of sharing data with AI systems. and last but not least, this reflection is also grammar-enhanced by AI.
