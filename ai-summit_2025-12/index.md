@@ -6,8 +6,8 @@ Welcome to the AI Summit session notes and summaries.
 
 ## 📋 Overview
 
-- [Summit Summary](summary.md) — Comprehensive workspace summary of all sessions with key themes
-- [Jia's Reflection](summit-summary.md) — Personal takeaways and experience using AI for note-taking
+- [Jia's Reflection](summit-reflection.md) — Personal takeaways and experience using AI for note-taking
+- [AI Generated Summary](ai-generated-summary.md) — Comprehensive workspace summary of all sessions with key themes
 
 ---
 
